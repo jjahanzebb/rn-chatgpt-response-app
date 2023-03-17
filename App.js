@@ -97,6 +97,7 @@ export default function App() {
           }}
         >
           <Text style={{ lineHeight: 25 }}>{generatedText}</Text>
+
         </ScrollView>
 
         <TextInput
